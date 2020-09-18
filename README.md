@@ -54,7 +54,7 @@ For example add an array of objects to be performed in order such as:
 
 The action objects use the following keys:
 
-* bot - The bot's name. It's recommended you use either Pink or The Brain for the avatars to work.
+* bot - The bot's name. It's recommended you use either Pinky or The Brain for the avatars to work.
 * wait - The amount of time to wait before sending this action
 * message: Supports Discord Markdown and must be string escaped.
 
